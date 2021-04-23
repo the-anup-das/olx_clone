@@ -13,3 +13,4 @@ Single sub category, main category - Sowjanya
 Single ad view - Tarkeshwar
 home page, price range slider, name contains in signal ad view - Deepak
 Feedback, contact, Faq - Sravan
+sort by, search, select city, browse categories in single ploduct page, products tab - Karunakar
